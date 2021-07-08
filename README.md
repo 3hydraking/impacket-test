@@ -1,4 +1,4 @@
 # impacket-test
 
-![image](https://user-images.githubusercontent.com/66146701/124961355-d3d05b00-dfc9-11eb-8078-910079631bb9.png)
+![image](https://user-images.githubusercontent.com/66146701/124974914-da66ce80-dfd9-11eb-987b-62f8955d4f68.png)
 
